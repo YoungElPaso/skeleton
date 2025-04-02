@@ -1,5 +1,14 @@
 # @skeletonlabs/skeleton-svelte
 
+## 1.0.1
+### Patch Changes
+
+
+- fix(FileUpload): Change `#each` key from `file.name` to `file` (Prevents name conflicts). ([#3475](https://github.com/skeletonlabs/skeleton/pull/3475))
+
+
+- fix: Update Zag to 1.7.0 ([#3476](https://github.com/skeletonlabs/skeleton/pull/3476))
+
 ## 1.0.0
 ### Minor Changes
 
